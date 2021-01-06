@@ -12,12 +12,12 @@
     <string name="hintAnio">Ingrese el año</string>
     <string name="hintKm">Ingrese el kilometraje</string>
 
-    <string name="audi">Audi</string>
-    <string name="bmw">BMW</string>
-    <string name="ferrari">Ferrari</string>
-    <string name="lamborghini">Lamborghini</string>
-    <string name="mercedes">Mercedes-Benz</string>
-    <string name="porsche">Porsche</string>
+    <string name="audi" translatable="false">Audi</string>
+    <string name="bmw" translatable="false">BMW</string>
+    <string name="ferrari" translatable="false">Ferrari</string>
+    <string name="lamborghini" translatable="false">Lamborghini</string>
+    <string name="mercedes" translatable="false">Mercedes-Benz</string>
+    <string name="porsche" translatable="false">Porsche</string>
     <string-array name="marcas">
         <item>@string/hintMarca</item>
         <item>@string/audi</item>
@@ -40,6 +40,6 @@
 
     <!-- Textos ListView -->
     <string name="km">" km"</string>
-    <string name="id">"Id: "</string>
+    <string name="id" translatable="false">"Id: "</string>
 
 </resources>
