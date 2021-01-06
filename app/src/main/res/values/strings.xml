@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Listado_Autos</string>
+
+    <!-- Textos Splash -->
+    <string name="nombreApp">Autos Fuentes</string>
+    <string name="version">Versión 1.0</string>
+
+    <!-- Textos Llenado -->
+    <string name="agregado">Auto agregado exitosamente</string>
+    <string name="hintMarca">Seleccione la marca del auto</string>
+    <string name="hintModelo">Ingrese el modelo</string>
+    <string name="hintAnio">Ingrese el año</string>
+    <string name="hintKm">Ingrese el kilometraje</string>
+
+    <string name="audi">Audi</string>
+    <string name="bmw">BMW</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="lamborghini">Lamborghini</string>
+    <string name="mercedes">Mercedes-Benz</string>
+    <string name="porsche">Porsche</string>
+    <string-array name="marcas">
+        <item>@string/hintMarca</item>
+        <item>@string/audi</item>
+        <item>@string/bmw</item>
+        <item>@string/ferrari</item>
+        <item>@string/lamborghini</item>
+        <item>@string/mercedes</item>
+        <item>@string/porsche</item>
+    </string-array>
+
+    <string name="agregar">Agregar auto</string>
+    <string name="enviar">Enviar datos</string>
+
+    <!-- Textos errores -->
+    <string name="errorMarca">Elija una marca</string>
+    <string name="errorModelo">Ingrese un modelo</string>
+    <string name="errorAnio">Ingrese un año válido</string>
+    <string name="errorKm">Ingrese un kilometraje válido</string>
+    <string name="errorValidar">Usted no ha ingresado ningún auto</string>
+
+    <!-- Textos ListView -->
+    <string name="km">" km"</string>
+    <string name="id">"Id: "</string>
+
+</resources>
