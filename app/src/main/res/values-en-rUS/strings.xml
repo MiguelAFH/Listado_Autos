@@ -4,7 +4,7 @@
     <string name="nombreApp">Car lot Fuentes</string>
     <string name="version">Version 1.0</string>
     <string name="agregado">Car added successfully</string>
-    <string name="hintMarca">Select the car\'s brand</string>
+    <string name="hintMarca">Select the car brand</string>
     <string name="hintModelo">Insert the car model</string>
     <string name="hintAnio">Insert the car year</string>
     <string name="hintKm">Insert the mileage</string>
